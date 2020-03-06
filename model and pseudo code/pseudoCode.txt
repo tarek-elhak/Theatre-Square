@@ -1,0 +1,21 @@
+this program calculates the least number of granite flagstones which can be used to pave 
+a square in a rectangular shape 
+
+function calculateSiden(argumnet n){
+    return round up (n/a)
+}
+function calculateSidem(argumnet m){
+    return round up (m/a)
+}
+function calculateTotal(argumnet flagstones reuired for n  , argumnet flagstones required for m){
+    return required for n * required for m
+}
+
+prompt to take input 1 which is n
+prompt to take input 2 which is m
+prompt to take input 3 which is a
+// calling a function to calculate the required number of flagstones to cover the side n
+// calling a function to calculate the required number of flagstones to cover the side m
+// calling a function to calculate the least number of flagstones required to pave the square 
+display the number
+
