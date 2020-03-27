@@ -1,5 +1,5 @@
-this program calculates the least number of granite flagstones which can be used to pave 
-a square in a rectangular shape 
+this program calculates the least number of granite flagstones which can be used to pave
+a square in a rectangular shape
 
 function calculateSiden(argumnet n){
     return round up (n/a)
